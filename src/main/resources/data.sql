@@ -1,0 +1,1 @@
+INSERT INTO `tbl_role`(`id`,`name`) VALUES (1, 'ROLE_ADMIN');
